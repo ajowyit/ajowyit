@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an IT Professional</h1>
+<h3>Hi, I'm Andrew, an IT Professional</h3>
 
 <!--
 **ajowyit/ajowyit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

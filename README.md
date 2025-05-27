@@ -2,13 +2,18 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machines in the Cloud](https://github.com/ajowyit/creating-virtual-machines)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ajowyit/azure-network-protocols)
+  - [Creating Active Directory Infrastructure in Azure](https://github.com/ajowyit/configure-ad)
+- <b>Active Directory</b>
+  - [Deploying and Configuring On-premises Active Directory within Azure](https://github.com/ajowyit/configure-ad)
+  - [Creating Users and Group Policy Objects](https://github.com/ajowyit/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ajowyit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ajowyit/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ajowyit/osticket-ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ajowyit/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ajowyit/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 

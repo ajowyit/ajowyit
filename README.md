@@ -5,10 +5,10 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/ajowyit/creating-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ajowyit/azure-network-protocols)
-  - [Creating Active Directory Infrastructure in Azure](https://github.com/ajowyit/configure-ad)
+  - [Creating Active Directory Infrastructure in Azure](https://github.com/ajowyit/create-ad-infrastructure)
     
 - <b>Active Directory</b>
-  - [Deploying and Configuring On-premises Active Directory within Azure](https://github.com/ajowyit/configure-ad)
+  - [Deploying and Configuring On-premises Active Directory within Azure](https://github.com/ajowyit/ad-deployment-configuration)
   - [Creating Users and Group Policy Objects](https://github.com/ajowyit/azure-network-protocols)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
